@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang=en>
+    <head>
+        <meta charset="utf-8">
+        <title>resume</title>
+    </head>
+    <body>
+        <h1>Rittesh k</h1>
+        <h3>ritteshsinghvi@gmail.com</h3>
+        <h3>9994444105</h3>
+        <img src="001.jpg" height=100 alt="rittesh"/>
+        <h3>OBJECTIVE</h3>
+        <hr/>
+        <p>Seeking a Long Term career perspective</p>
+        <h2>Qualification</h2>
+        <ul>
+        <li>BE-CSE-MNM Jain Engg,70%-2010-2014</li>
+        <li>12-ACS Higher Sec School-86%</li>
+        <li>10-Cluny Convent-86%</li>
+        </ul>
+        <h2>Project</h2>
+        <ul>
+            <li>
+        <p>Asynchronous Server for Cloud Computing using NodeJS
+        Platform:HTML,JavaScript,NodeJS,MongoDB</p></li></ul>
+        
+        <h3>Contibution</h3>
+        <ul>
+        <li>Creating web pages using HTML</li> 
+        <li>Initiating server using NODEJS</li>
+        </ul>
+        <h3>Hobbies</h3>
+        <ul>
+        <li>Reading</li>
+        <li>Listening  to music</li>
+        <li>Chess</li>
+</ul>
+    </body>
+
